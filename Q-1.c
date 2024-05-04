@@ -1,3 +1,8 @@
+// Q.1 Write a Program to check if a given password is strong or not by satisfying the below criteria:
+// - Password must contain at least one letter, one digit & one special symbol.
+// - Password must be at least 6 characters.
+
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
